@@ -1,0 +1,1 @@
+- this mini project has two scenes, a button to load the other scene, and jpg background images
